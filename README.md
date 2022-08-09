@@ -20,3 +20,10 @@ git remote -v (연결확인)
 
 git push origin master
 적용된것확인
+
+내용추가시 
+git add .
+git commit -m""
+git push origin master
+확인
+git remote -v
